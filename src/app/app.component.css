@@ -1,0 +1,19 @@
+.nav-item
+{
+    padding:10px;
+    text-decoration: none;
+    color:white;
+}
+.fa-bell
+{
+    color:#ffffff;
+   
+}
+.fa-plus
+{
+    color:#ffffff;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
